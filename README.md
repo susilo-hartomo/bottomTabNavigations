@@ -13,7 +13,7 @@ Jalan kan lewat terminal
 managed workflow
 bare workflow
 ```
-dapat memilih sesuai kebutuhan
+dapat memilih sesuai kebutuhan /n
 3. install react native navigation dapat dilihat disini
 https://reactnavigation.org/docs/getting-started
 sesuaikan dengan workflow yang kalian pilih dan apabila mau run menggunakan ios maka instal pod terlebih dahulu
